@@ -50,7 +50,7 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 📧 Me manda um e-mail: [isamenmar@gmail.com](mailto:isamenmar@gmail.com)
 
-🔗 Ou me encontra no [LinkedIn](linkedin.com/in/isamen-martins)
+🔗 Ou me encontra no [LinkedIn](https://www.linkedin.com/in/isamen-martins)
 
 ---
 
