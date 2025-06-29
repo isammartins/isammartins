@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=A83B4A&background=6E6E6E00&width=435&lines=%F0%9F%93%8A+Analista+de+Dados)](https://git.io/typing-svg)
 
-  🎓 **MBA em Data Science & Analytics (USP)** | **Bióloga formada pela UFES**
+  🎓 **MBA em Data Science & Analytics (USP)** | **Bióloga (UFES)**
 
 📍 Maranhense | 🎯 Transformo dados em decisões | 🎨 Arte é meu hobby
 
@@ -14,7 +14,7 @@ Atualmente trabalho com **Análise de Dados**, utilizando:
 - 🛢️ **SQL** para extração e manipulação de dados  
 - 📊 **Power BI** e **Excel** para dashboards e visualizações com propósito
 
-Gosto de transformar dados bagunçadas em respostas estratégicas, com insights que fazem sentido. E nas horas vagas, tenho um pé na arte: desenho, crio e deixo a criatividade fluir.
+Gosto de transformar dados bagunçados em respostas estratégicas, com insights que fazem sentido. E nas horas vagas, tenho um pé na arte: deixo a criatividade fluir.
 
 ---
 
